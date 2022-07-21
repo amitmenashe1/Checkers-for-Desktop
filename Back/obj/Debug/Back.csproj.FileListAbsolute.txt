@@ -1,0 +1,7 @@
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.dll.config
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.dll
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.pdb
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.dll
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.pdb

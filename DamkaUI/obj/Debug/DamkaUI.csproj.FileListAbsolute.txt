@@ -1,0 +1,16 @@
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\DamkaUI.exe.config
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\DamkaUI.exe
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\DamkaUI.pdb
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\Back.dll
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\Back.pdb
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\bin\Debug\Back.dll.config
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.csproj.AssemblyReference.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.DamkaForm.resources
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.gameSettingsForm.resources
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.Properties.Resources.resources
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.csproj.GenerateResource.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.csproj.CopyComplete
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.exe
+C:\Users\Amit\Desktop\B22 Ex05 TomPolak 208388892 AmitMenashe 208576173\DamkaUI\obj\Debug\DamkaUI.pdb
